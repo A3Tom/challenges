@@ -1,8 +1,5 @@
 # Power Digit Sum
 
-# 2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
-# What is the sum of the digits of the number 2^1000?
-
 # I feel like I'm missing a golden tool to just plug an exponent into and it'll give the answer
 
 def solve(n):

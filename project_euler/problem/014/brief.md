@@ -1,3 +1,5 @@
+# Longest Collatz Sequence
+
 <p>The following iterative sequence is defined for the set of positive integers:</p>
 <ul style="list-style-type:none;">
 <li><code>n</code> -> <code>n/2</code> (n is even)</li>

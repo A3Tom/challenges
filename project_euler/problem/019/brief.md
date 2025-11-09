@@ -1,4 +1,4 @@
-<h1>Counting Sundays</h1>
+# Counting Sundays
 
 <p>You are given the following information, but you may prefer to do some research for yourself.</p>
 <ul><li>1 Jan 1900 was a Monday.</li>
